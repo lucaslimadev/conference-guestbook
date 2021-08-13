@@ -1,6 +1,13 @@
+<p align="center">
+
+</p>
+
+<p align="center">
+   
+</p>
+
 <h1 align="center">
-    <img alt="Letmeask" src="imgReadme/conference-guestbook.png" />
-    
+    <img src="imgReadme/conference-guestbook.png" />
 </h1>
 
 <br>
